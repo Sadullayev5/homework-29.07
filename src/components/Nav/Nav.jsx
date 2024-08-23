@@ -4,7 +4,7 @@ import React from 'react'
 import './Nav.css'
 import { Link } from 'react-router-dom'
 import Fabrx from '../../images/Fabrx.svg'
-import avatar from '../../images/avatar.png'
+import avatar from '../../images/hero-avatar.png'
 
 const Nav = () => {
   return (
